@@ -57,7 +57,8 @@ datascience26/
  
 ### 極性辞書の入手
 東北大学 乾・岡崎研究室が公開している「日本語評価極性辞書」を使う。 
-- 配布元: https://www.cl.ecei.tohoku.ac.jp/Open_Resources-Japanese_Sentiment_Polarity_Dictionary.html（参考文献として記す必要あり）
+- 配布元: https://www.cl.ecei.tohoku.ac.jp/Open_Resources-Japanese_Sentiment_Polarity_Dictionary.html
+-（参考文献として記す必要あり）
 - 用言編: `wago.121808.pn`（動詞・形容詞）
 - 名詞編: `pn.csv.m3.120408.trim`
 
