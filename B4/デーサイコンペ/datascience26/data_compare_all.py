@@ -1,5 +1,5 @@
 """5品目の新聞見出しを、一般辞書のみ/自作辞書追加で比較する。
-使い方: python3 data_compare_all.py --input '新聞記事収集 - 3_見出し.tsv'
+使い方: python3 data_compare_all.py --input 'headlines.tsv'
 必要: pip install pandas mecab-python3 ipadic
 辞書: wago.121808.pn, pn.csv.m3.120408.trim
 自作辞書: domain_pn.csv（コメだけに適用）、domain_momo.csv,
@@ -144,7 +144,7 @@ def duplicate_key(row):
 def main():
     parser = argparse.ArgumentParser()
     root = Path(__file__).resolve().parent
-    parser.add_argument("--input", type=Path, default=root / "新聞記事収集 - 3_見出し.tsv")
+    parser.add_argument("--input", type=Path, default=root / "headlines.tsv")
     parser.add_argument("--data-dir", type=Path, default=root)
     parser.add_argument("--output-dir", type=Path, default=root / "results_all")
     args = parser.parse_args()
