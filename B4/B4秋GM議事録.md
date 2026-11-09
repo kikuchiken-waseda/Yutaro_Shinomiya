@@ -58,6 +58,7 @@ LINEのトーク機能において、LINE特有の
 - 予備実験
     - [予備実験について](https://github.com/kikuchiken-waseda/Yutaro_Shinomiya/blob/03e585db61fc53a42a38e221008365d5c0f6d758/B4/%E5%AE%9F%E9%A8%932%E4%BA%88%E5%82%99%E5%AE%9F%E9%A8%93.md)
     - 改善点？は以下に示す
+    - [結果](/Users/yutaroshinomiya/.codex/.chatgpt-projects/g-p-6abede1648548191a8b844bd2d2e45cf/outputs/pilot-results/index.html)
 
 ## 相談事項・議論メモ
 - 予備実験について（以下に示す）
