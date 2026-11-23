@@ -63,8 +63,12 @@ LINEでの感情表現記号が印象形成に及ぼす影響を明らかにす�
 - 可視化
     - 3要因反復測定ANOVA
  
-      <img width="405" height="167" alt="image" src="https://github.com/user-attachments/assets/14c2d372-ff9e-4457-9b6b-fdd423951bc6" />  
-    - あ 
+      <img width="405" height="167" alt="image" src="https://github.com/user-attachments/assets/14c2d372-ff9e-4457-9b6b-fdd423951bc6" />
+
+    - 平均値のグラフ化？（モデル論文）
+      <img width="536" height="746" alt="image" src="https://github.com/user-attachments/assets/8b111f58-b8af-44c2-ae85-a5613b146e82" />
+
+- 卒論仮提出までに可視化の方法を固める。(ToDo)
 
 <details>
 
