@@ -62,6 +62,7 @@ LINEでの感情表現記号が印象形成に及ぼす影響を明らかにす�
     5. 自己使用傾向との一致の確認LMM
 - 可視化
     - 3要因反復測定ANOVA
+ 
       <img width="405" height="167" alt="image" src="https://github.com/user-attachments/assets/14c2d372-ff9e-4457-9b6b-fdd423951bc6" />  
     - あ 
 
